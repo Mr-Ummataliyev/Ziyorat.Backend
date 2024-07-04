@@ -1,0 +1,6 @@
+@Ziyorat.API_HostAddress = http://localhost:5004
+
+GET {{Ziyorat.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
